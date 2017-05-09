@@ -35,5 +35,15 @@
         "optional": "stats"
       }
     }
+  },
+  "_request": {
+    "parallel": true,
+    "desc": null,
+    "options": {
+      "params": {
+        "required": "route",
+        "optional": "resp"
+      }
+    }
   }
 }
