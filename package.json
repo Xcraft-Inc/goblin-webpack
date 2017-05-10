@@ -9,13 +9,12 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "webpack": "^2.5.1",
-    "xcraft-core-goblin": "^2.0.0"
-  },
-  "devDependencies": {
     "babel-loader": "^7.0.0",
-    "html-webpack-plugin": "^2.28.0",
-    "koa": "^2.2.0",
+    "watt": "^3.2.2",
+    "webpack": "^2.5.1",
+    "webpack-dev-server": "^2.4.5",
+    "webpack-hot-middleware": "^2.18.0",
+    "xcraft-core-goblin": "^2.0.0",
     "xcraft-dev-rules": "^0.1.8"
   }
 }
