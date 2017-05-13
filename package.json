@@ -8,6 +8,11 @@
   },
   "author": "",
   "license": "MIT",
+  "config": {
+    "xcraft": {
+      "commands": true
+    }
+  },
   "dependencies": {
     "babel-loader": "^7.0.0",
     "watt": "^3.2.2",
