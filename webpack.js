@@ -11,7 +11,7 @@ exports.xcraftCommands = function () {
     rc: {
       pack: {
         parallel: true,
-        desc: 'Pack a webapp',
+        desc: 'pack a webapp',
         options: {
           params: {
             required: 'location',
@@ -20,7 +20,7 @@ exports.xcraftCommands = function () {
       },
       'server.start': {
         parallel: true,
-        desc: 'Start a webpack server',
+        desc: 'start a webpack server',
         options: {
           params: {
             required: 'goblin',
@@ -29,7 +29,7 @@ exports.xcraftCommands = function () {
       },
       'server.stop': {
         parallel: true,
-        desc: 'Stop a webpack server',
+        desc: 'stop a webpack server',
         options: {
           params: {
             required: 'goblin',
