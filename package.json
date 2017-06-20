@@ -16,8 +16,8 @@
   "dependencies": {
     "babel-loader": "^7.0.0",
     "watt": "^3.2.2",
-    "webpack": "^2.5.1",
-    "webpack-dev-server": "^2.4.5",
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0",
     "webpack-hot-middleware": "^2.18.0",
     "xcraft-core-goblin": "^2.0.0",
     "xcraft-dev-rules": "^0.1.8"
