@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "babel-loader": "^7.0.0",
-    "watt": "^3.2.2",
+    "memory-fs": "^0.4.1",
     "webpack": "^3.0.0",
     "webpack-dev-server": "^2.5.0",
     "webpack-hot-middleware": "^2.18.0",
