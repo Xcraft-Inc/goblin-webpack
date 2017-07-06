@@ -15,13 +15,16 @@
   },
   "dependencies": {
     "babel-loader": "^7.0.0",
+    "babili-webpack-plugin": "^0.1.2",
     "markdown-component-loader": "^0.8.0",
     "markdown-it-highlightjs": "^3.0.0",
     "memory-fs": "^0.4.1",
     "webpack": "^3.0.0",
     "webpack-dev-server": "^2.5.0",
     "webpack-hot-middleware": "^2.18.0",
-    "xcraft-core-goblin": "^2.0.0",
+    "xcraft-core-goblin": "^2.0.0"
+  },
+  "devDependencies": {
     "xcraft-dev-rules": "^0.1.8"
   }
 }
