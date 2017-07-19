@@ -25,6 +25,7 @@
     "xcraft-core-goblin": "^2.0.0"
   },
   "devDependencies": {
+    "babel-preset-env": "^1.6.0",
     "xcraft-dev-rules": "^0.1.8"
   }
 }
