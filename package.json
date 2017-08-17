@@ -2,7 +2,6 @@
   "name": "goblin-webpack",
   "version": "0.0.1",
   "description": "Webpack",
-  "main": "webpack.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
