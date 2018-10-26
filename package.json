@@ -16,8 +16,6 @@
     "babel-loader": "^7.1.4",
     "babel-minify-webpack-plugin": "^0.3.1",
     "hard-source-webpack-plugin": "^0.6.4",
-    "markdown-component-loader": "^1.1.0",
-    "markdown-it-highlightjs": "^3.0.0",
     "memory-fs": "^0.4.1",
     "webpack": "^4.5.0",
     "webpack-dev-server": "^3.1.1",
