@@ -18,6 +18,7 @@
     "hard-source-webpack-plugin": "^0.6.4",
     "memory-fs": "^0.4.1",
     "webpack": "^4.5.0",
+    "webpack-bundle-analyzer": "^3.0.3",
     "webpack-dev-server": "^3.1.1",
     "webpack-hot-middleware": "^2.21.2",
     "xcraft-core-goblin": "^2.0.0"
