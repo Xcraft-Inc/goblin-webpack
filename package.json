@@ -27,7 +27,9 @@
   },
   "devDependencies": {
     "babel-preset-env": "^1.6.0",
-    "xcraft-dev-rules": "^0.4.0",
-    "prettier": "1.16.4"
-  }
+    "prettier": "1.18.2",
+    "xcraft-dev-prettier": "^1.0.0",
+    "xcraft-dev-rules": "^1.0.2"
+  },
+  "prettier": "xcraft-dev-prettier"
 }
