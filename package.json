@@ -19,6 +19,8 @@
     "fs-extra": "^7.0.1",
     "hard-source-webpack-plugin": "^0.13.1",
     "memory-fs": "^0.4.1",
+    "unionfs": "^4.2.0",
+    "linkfs": "^2.1.0",
     "webpack": "^4.5.0",
     "webpack-bundle-analyzer": "^3.0.3",
     "webpack-dev-server": "^3.1.1",
