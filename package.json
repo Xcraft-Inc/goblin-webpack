@@ -23,7 +23,7 @@
     "webpack-bundle-analyzer": "^3.0.3",
     "webpack-dev-server": "^3.1.1",
     "webpack-hot-middleware": "^2.21.2",
-    "xcraft-core-goblin": "^3.0.0"
+    "xcraft-core-goblin": "^4.0.1"
   },
   "devDependencies": {
     "babel-preset-env": "^1.6.0",
