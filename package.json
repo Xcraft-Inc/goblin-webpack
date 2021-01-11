@@ -27,6 +27,7 @@
     "path-browserify": "^1.0.1",
     "terser-webpack-plugin": "^5.0.3",
     "util": "^0.12.3",
+    "v8-compile-cache": "^2.2.0",
     "webpack": "^5.9.0",
     "webpack-bundle-analyzer": "^4.2.0",
     "webpack-dev-middleware": "^4.0.2",
