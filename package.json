@@ -18,7 +18,7 @@
     "@babel/preset-env": "^7.12.7",
     "clear-module": "^4.1.1",
     "express": "^4.17.1",
-    "fs-extra": "^7.0.1",
+    "fs-extra": "^9.1.0",
     "gigawatts": "^4.0.5",
     "image-minimizer-webpack-plugin": "^2.0.0",
     "imagemin-svgo": "^8.0.0",
