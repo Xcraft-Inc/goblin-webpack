@@ -39,8 +39,8 @@
     "v8-compile-cache": "^2.2.0",
     "webpack": "^5.9.0",
     "webpack-bundle-analyzer": "^4.2.0",
-    "webpack-dev-middleware": "^4.0.2",
-    "webpack-dev-server": "^3.11.0",
+    "webpack-dev-middleware": "^5.0.0",
+    "webpack-dev-server": "^4.1.1",
     "webpack-hot-middleware": "github:Xcraft-Inc/webpack-hot-middleware",
     "xcraft-core-goblin": "^4.0.1",
     "xcraft-core-fs": "^2.1.0"
