@@ -41,7 +41,7 @@
     "webpack-bundle-analyzer": "^4.2.0",
     "webpack-dev-middleware": "^5.0.0",
     "webpack-dev-server": "^4.1.1",
-    "webpack-hot-middleware": "github:Xcraft-Inc/webpack-hot-middleware",
+    "webpack-hot-middleware": "github:gatsbyjs/webpack-hot-middleware",
     "xcraft-core-goblin": "^4.0.1",
     "xcraft-core-fs": "^2.1.0"
   },
