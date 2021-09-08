@@ -15,15 +15,26 @@
   "dependencies": {
     "babel-loader": "^8.2.2",
     "babel-plugin-lodash": "^3.3.4",
+    "@babel/core": "^7.12.9",
+    "@babel/plugin-proposal-class-properties": "^7.12.1",
+    "@babel/plugin-proposal-function-bind": "^7.12.1",
+    "@babel/plugin-proposal-object-rest-spread": "^7.12.1",
+    "@babel/plugin-transform-modules-commonjs": "^7.12.1",
     "@babel/preset-env": "^7.12.7",
+    "@babel/preset-react": "^7.12.7",
     "clear-module": "^4.1.1",
+    "css-loader": "^6.2.0",
     "express": "^4.17.1",
+    "file-loader": "^6.2.0",
     "fs-extra": "^9.1.0",
     "gigawatts": "^4.0.5",
     "image-minimizer-webpack-plugin": "^2.0.0",
     "imagemin-svgo": "^8.0.0",
+    "node-loader": "^1.0.2",
     "path-browserify": "^1.0.1",
+    "style-loader": "^3.2.1",
     "terser-webpack-plugin": "^5.0.3",
+    "url-loader": "^4.1.1",
     "util": "^0.12.3",
     "v8-compile-cache": "^2.2.0",
     "webpack": "^5.9.0",
@@ -44,7 +55,7 @@
     "xcraft-dev-rules": "^2.0.0"
   },
   "peerDependencies": {
-    "monaco-editor-webpack-plugin": "^1.9.0"
+    "monaco-editor-webpack-plugin": "^4.1.2"
   },
   "prettier": "xcraft-dev-prettier"
 }
