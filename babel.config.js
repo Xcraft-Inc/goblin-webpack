@@ -1,5 +1,8 @@
 'use strict';
 
+/* Disable babel root stuff because we want to use only one uniq config for all */
+
+/*
 const path = require('path');
 const xFs = require('xcraft-core-fs');
 
@@ -21,7 +24,15 @@ if (process.env.GOBLIN_WEBPACK_RELEASEPATH) {
       .map((root) => `${path.relative(__dirname, nodeModulesRoot)}/${root}/*`)
   );
 }
+*/
 
 module.exports = {
-  babelrcRoots: roots,
+  // babelrcRoots: roots,
+  presets: ['@babel/preset-react'],
+  plugins: [
+    '@babel/proposal-class-properties',
+    '@babel/proposal-object-rest-spread',
+    '@babel/proposal-function-bind',
+    '@babel/transform-modules-commonjs',
+  ],
 };
