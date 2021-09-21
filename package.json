@@ -42,8 +42,11 @@
     "webpack-bundle-analyzer": "^4.2.0",
     "webpack-dev-middleware": "^5.0.0",
     "webpack-hot-middleware": "github:lukeapage/webpack-hot-middleware",
+    "xcraft-core-busclient": "^5.0.0",
     "xcraft-core-goblin": "^5.0.0",
-    "xcraft-core-fs": "^2.1.0"
+    "xcraft-core-fs": "^2.1.0",
+    "xcraft-core-host": "^3.0.0",
+    "xcraft-core-process": "^1.2.0"
   },
   "optionalDependencies": {
     "imagemin-mozjpeg": "^9.0.0",
