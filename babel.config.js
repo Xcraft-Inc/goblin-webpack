@@ -34,5 +34,6 @@ module.exports = {
     '@babel/proposal-object-rest-spread',
     '@babel/proposal-function-bind',
     '@babel/transform-modules-commonjs',
+    'babel-plugin-lodash',
   ],
 };
