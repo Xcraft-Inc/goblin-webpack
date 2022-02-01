@@ -59,7 +59,7 @@
     "xcraft-dev-rules": "^2.0.0"
   },
   "peerDependencies": {
-    "monaco-editor-webpack-plugin": "^4.1.2"
+    "monaco-editor-webpack-plugin": "^7.0.1"
   },
   "prettier": "xcraft-dev-prettier"
 }
