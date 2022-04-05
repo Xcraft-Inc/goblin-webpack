@@ -29,13 +29,13 @@
     "file-loader": "^6.2.0",
     "fs-extra": "^9.1.0",
     "gigawatts": "^4.0.5",
-    "image-minimizer-webpack-plugin": "^2.0.0",
-    "imagemin-svgo": "^8.0.0",
+    "image-minimizer-webpack-plugin": "^3.2.3",
+    "imagemin-svgo": "^10.0.1",
     "node-loader": "^1.0.2",
     "path-browserify": "^1.0.1",
     "process": "^0.11.10",
     "style-loader": "^3.2.1",
-    "terser-webpack-plugin": "^5.0.3",
+    "terser-webpack-plugin": "^5.3.1",
     "url-loader": "^4.1.1",
     "util": "^0.12.3",
     "v8-compile-cache": "^2.2.0",
@@ -50,8 +50,8 @@
     "xcraft-core-process": "^1.2.0"
   },
   "optionalDependencies": {
-    "imagemin-mozjpeg": "^9.0.0",
-    "imagemin-pngquant": "^9.0.1"
+    "imagemin-mozjpeg": "^10.0.0",
+    "imagemin-pngquant": "^9.0.2"
   },
   "devDependencies": {
     "prettier": "2.0.4",
