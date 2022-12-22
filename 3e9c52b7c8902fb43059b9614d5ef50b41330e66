@@ -1,0 +1,9 @@
+[
+  {
+    "Module": "goblin-webpack",
+    "Version": "v2.1.9",
+    "Hash": "3e9c52b",
+    "Dev": "master",
+    "Prod": "2.1"
+  }
+]
