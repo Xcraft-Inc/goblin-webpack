@@ -48,10 +48,6 @@
     "xcraft-core-host": "^3.0.0",
     "xcraft-core-process": "^1.2.0"
   },
-  "optionalDependencies": {
-    "imagemin-mozjpeg": "^9.0.0",
-    "imagemin-pngquant": "^9.0.1"
-  },
   "devDependencies": {
     "prettier": "2.0.4",
     "xcraft-dev-prettier": "^2.0.0",
