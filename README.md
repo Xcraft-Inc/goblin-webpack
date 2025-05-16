@@ -11,7 +11,6 @@ Le module `goblin-webpack` est un service qui encapsule et configure Webpack pou
 - **Prod-server** : Serveur de production pour générer des bundles optimisés
 - **Configuration Webpack** : Fournit des configurations par défaut et personnalisables pour Webpack
 - **Configuration Babel** : Définit les presets et plugins Babel pour la transpilation
-- **Configuration ESLint** : Règles de linting pour maintenir la qualité du code
 
 ## Fonctionnement global
 
@@ -141,19 +140,6 @@ La configuration Babel inclut :
 - Support pour la liaison de fonction
 - Transformation des modules ES en CommonJS
 - Support pour l'optimisation de lodash via babel-plugin-lodash
-
-### `eslint.config.js`
-
-Ce fichier définit la configuration ESLint pour le linting du code JavaScript. Il utilise la nouvelle configuration plate d'ESLint (flat config). Il inclut les règles recommandées pour JavaScript et React, ainsi que des règles personnalisées pour maintenir la qualité du code.
-
-La configuration ESLint inclut :
-
-- Règles recommandées pour JavaScript
-- Règles recommandées pour React
-- Support pour JSDoc
-- Support pour Babel
-- Règles personnalisées pour l'égalité stricte, les variables non utilisées, etc.
-- Intégration avec Prettier pour le formatage du code
 
 ## Détails des fichiers spéciaux
 
