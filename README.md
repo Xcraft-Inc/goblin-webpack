@@ -4,6 +4,17 @@
 
 Le module `goblin-webpack` est un service qui encapsule et configure Webpack pour l'écosystème Xcraft. Il fournit des fonctionnalités pour compiler et servir des applications web en mode développement (hot-reload) et production (optimisé). Ce module est essentiel pour transformer le code source JavaScript/React en bundles optimisés pour le navigateur ou d'autres environnements cibles.
 
+## Sommaire
+
+- [Structure du module](#structure-du-module)
+- [Fonctionnement global](#fonctionnement-global)
+- [Exemples d'utilisation](#exemples-dutilisation)
+- [Interactions avec d'autres modules](#interactions-avec-dautres-modules)
+- [Configuration avancée](#configuration-avancée)
+- [Détails des sources](#détails-des-sources)
+- [Caractéristiques techniques notables](#caractéristiques-techniques-notables)
+- [Conclusion](#conclusion)
+
 ## Structure du module
 
 - **Service principal** : Gère les requêtes pour démarrer/arrêter les serveurs de développement et compiler les bundles
